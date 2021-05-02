@@ -6,10 +6,10 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class ConditionerTest {
-    @Test
-    public void shouldCreate() {
-        Conditioner conditioner = new Conditioner();
-    }
+//    @Test
+//    public void shouldCreate() {
+//        Conditioner conditioner = new Conditioner();
+//    }
 
     @Test
     public void shouldInitFieldToZeroValues() {
